@@ -10,6 +10,7 @@
 - [Algorithms using Python](https://github.com/dnjscksdn98/python-algorithm)
 - [Spring Security](https://github.com/dnjscksdn98/spring-security-tutorial)
 - [Chatting Server using Kafka, WebSocket, and Spring Boot](https://github.com/dnjscksdn98/spring-kafka-chat-service)
+- [Chatting Server using Redis Pub/Sub, WebSocket, and Spring Boot](https://github.com/dnjscksdn98/spring-redis-chat-service)
 - [Dockerize Spring Boot Application and MySQL](https://github.com/dnjscksdn98/docker-spring-boot)
 
 ## 🖥 My Developer Blog
