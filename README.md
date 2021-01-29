@@ -1,5 +1,12 @@
 # What I learned
 
+### 📕 Notion
+- [Blockchain](https://www.notion.so/dnjscksdn98/Blockchain-Fundamentals-89671e1402d6427199333ef10ca29c59)
+- [Ethereum](https://www.notion.so/dnjscksdn98/Ethereum-Fundamentals-050ce455d39b4da4bf74cc4b478a8b84)
+- [Klaytn](https://www.notion.so/dnjscksdn98/Klaytn-Fundamentals-992ca67fd2f84add9da892044e2893d1)
+- [AWS](https://www.notion.so/dnjscksdn98/Amazon-Web-Services-dac73f26563b4a9c9aa2e2c031c0294d)
+- [Kubernetes](https://www.notion.so/dnjscksdn98/Kubernetes-Basics-6bebf84bfcbd442b9ed6aa8e800f6e09)
+
 ### 🎯 Contents
 
 - [Design Patterns](https://github.com/dnjscksdn98/design-patterns)
