@@ -1,4 +1,4 @@
-# What I learned
+# Who Am I
 
 ### 📕 Notion
 - [Blockchain](https://www.notion.so/dnjscksdn98/Blockchain-Fundamentals-89671e1402d6427199333ef10ca29c59)
