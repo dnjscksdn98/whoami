@@ -1,11 +1,12 @@
 # Who Am I
 
 ### 📕 Notion
-- [Blockchain](https://www.notion.so/dnjscksdn98/Blockchain-Fundamentals-89671e1402d6427199333ef10ca29c59)
-- [Ethereum](https://www.notion.so/dnjscksdn98/Ethereum-Fundamentals-050ce455d39b4da4bf74cc4b478a8b84)
-- [Klaytn](https://www.notion.so/dnjscksdn98/Klaytn-Fundamentals-992ca67fd2f84add9da892044e2893d1)
+- [Blockchain](https://www.notion.so/dnjscksdn98/Blockchain-fe07037df1ee46668658e516c0192b9f)
 - [AWS](https://www.notion.so/dnjscksdn98/Amazon-Web-Services-dac73f26563b4a9c9aa2e2c031c0294d)
-- [Kubernetes](https://www.notion.so/dnjscksdn98/Kubernetes-Basics-6bebf84bfcbd442b9ed6aa8e800f6e09)
+- [Kubernetes](https://www.notion.so/dnjscksdn98/Kubernetes-6bebf84bfcbd442b9ed6aa8e800f6e09)
+- [Python](https://www.notion.so/dnjscksdn98/Python-f475fdbcb4de4b979fb4c8c880f393eb)
+- [RabbitMQ](https://www.notion.so/dnjscksdn98/RabbitMQ-fb0a3c068017445aaa30fdcedd3d0e43)
+- [Cassandra](https://www.notion.so/dnjscksdn98/Cassandra-be898371b3624f4f927dfe0e26733e00)
 
 ### 🎯 Contents
 
