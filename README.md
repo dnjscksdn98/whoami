@@ -7,6 +7,7 @@
 - [Python](https://www.notion.so/dnjscksdn98/Python-f475fdbcb4de4b979fb4c8c880f393eb)
 - [RabbitMQ](https://www.notion.so/dnjscksdn98/RabbitMQ-fb0a3c068017445aaa30fdcedd3d0e43)
 - [Cassandra](https://www.notion.so/dnjscksdn98/Cassandra-be898371b3624f4f927dfe0e26733e00)
+- [Go](https://dnjscksdn98.notion.site/Go-e44d050a5d074f72a77a5b9ee48c99cb)
 
 ### 🎯 Contents
 
