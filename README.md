@@ -8,6 +8,8 @@
 - [RabbitMQ](https://www.notion.so/dnjscksdn98/RabbitMQ-fb0a3c068017445aaa30fdcedd3d0e43)
 - [Cassandra](https://www.notion.so/dnjscksdn98/Cassandra-be898371b3624f4f927dfe0e26733e00)
 - [Go](https://dnjscksdn98.notion.site/Go-e44d050a5d074f72a77a5b9ee48c99cb)
+- [Typescript](https://dnjscksdn98.notion.site/Typescript-5162e69d9b344b86a4515987874b9f6b)
+- [Javascript](https://dnjscksdn98.notion.site/Javascript-7db32465e1de421eacbc65f670eabd2b)
 
 ### 🎯 Contents
 
